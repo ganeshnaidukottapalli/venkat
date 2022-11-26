@@ -1,0 +1,6 @@
+#program for bitwise operators
+a=int(input("enter the value for A:"))
+b=int(input("enter the value for B:"))
+print(a&b)#bitwise and
+print(a|b)#bitwise or
+print(a^b)#bitwise exclusive or
